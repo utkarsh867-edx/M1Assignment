@@ -1,0 +1,24 @@
+{
+  "name": "M1Assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utkarsh867-edx/M1Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utkarsh867-edx/M1Assignment/issues"
+  },
+  "homepage": "https://github.com/utkarsh867-edx/M1Assignment#readme",
+  "dependencies": {
+    "csvtojson": "^1.1.9",
+    "http": "0.0.0"
+  }
+}
